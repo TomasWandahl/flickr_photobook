@@ -1,0 +1,13 @@
+https://www.flickr.com/services/feeds/docs/photos_public/
+
+Uppgift: Fotovägg 
+Den här uppgiften går ut på att bygga en webbapplikation som visar en fotovägg.  Applikationen ska låta besökaren göra en sökning där matchande bilder ska hämtas från  flickrs publika api och presentera de foton som kommer tillbaka. Applikationen behöver  även löpande uppdatera sidan med foton allt efter nya foton kommer till eller försvinner.  Sidan ska alltså kunna visas på en skärm som ett bildspel där flera bilder visas samtidigt  och där ingen användarinput behövs för att byta bild. 
+Bedömningskriterier 
+Några exempel på vad vi kommer att kolla på i den kod som du skickar in är: • Vilka ramverk du valt att använda, valet är fritt men du ska kunna klargöra varför du har  valt respektive ramverk 
+• Hur du strukturerat din kod 
+• Är applikationen responsiv och fungerar såväl på skärmar i mobiltelefon- som  desktopstorlek. 
+• Hur hanterar applikationen ändringar bland de foton som visas, är det fina övergångar. • Är det lätt för en annan utvecklare att förstå hur koden är strukturerad och  vidareutveckla koden, det du lämnar in bör uppfylla våra krav och behöver inte klara  något extra, men utbyggnadsmöjligheten av ett system är viktigt. 
+Krav på lösningen 
+• Koden ska levereras till oss i ett git repository senast två dagar innan intervju. • I roten på projektet ska en fil, README.md, finnas. Den filen ska beskriva de steg som  krävs för att en annan utvecklare ska kunna köra applikationen på sin dator. • Du väljer själv vilket språk du skriver applikationen i men den bör gå att starta på en  mac eller linux dator. 
+Länk till Flickrs API 
+https://www.flickr.com/services/feeds/docs/photos_public/
